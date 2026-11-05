@@ -1,0 +1,64 @@
+{
+  "availability": {
+    "blockedDates": [],
+    "icalUrls": []
+  },
+  "backendUrl": "",
+  "brand": {
+    "accent": "#2d5f56",
+    "font": "Inter",
+    "ink": "#1a1a18",
+    "paper": "#fcfbf9",
+    "poweredBy": false
+  },
+  "contact": {
+    "email": "hellowdstudio@gmail.com",
+    "whatsapp": "+523122411693"
+  },
+  "currency": "MXN",
+  "defaultLanguage": "es",
+  "extras": [],
+  "fees": {
+    "cleaning": 850,
+    "maxPets": 0,
+    "petPerNight": 0,
+    "taxPercent": 16
+  },
+  "languages": [
+    "es",
+    "en"
+  ],
+  "locale": "es-MX",
+  "payment": {
+    "chargePercent": 100,
+    "mode": "demo"
+  },
+  "plan": "renta",
+  "policy": {
+    "en": "<p><b>Reservation.</b> A reservation is confirmed once payment is received.</p><p><b>Cancellation.</b> More than 60 days before arrival, 100% is refunded. Between 30 and 60 days, 50%. Under 30 days, non-refundable.</p><p><b>Check-in and check-out.</b> Check-in from 15:00. Check-out by 11:00.</p><p><b>Damages.</b> The guest is responsible for any damage during the stay.</p><p><b>House rules.</b> No events without written approval. Quiet hours from 22:00.</p>",
+    "es": "<p><b>Reserva.</b> La reserva se confirma al recibir el pago.</p><p><b>Cancelación.</b> Más de 60 días antes de la llegada se reembolsa el 100%. Entre 30 y 60 días, el 50%. Con menos de 30 días no hay reembolso.</p><p><b>Entrada y salida.</b> Entrada desde las 15:00. Salida antes de las 11:00.</p><p><b>Daños.</b> El huésped es responsable de cualquier daño durante la estancia.</p><p><b>Reglas.</b> No se permiten eventos sin aprobación por escrito. Horario de silencio desde las 22:00.</p>"
+  },
+  "property": {
+    "about": {
+      "en": "A white house halfway up the hill, the sea always in front and shade at any hour.\nThe beach is four minutes away on foot, down the stone steps.",
+      "es": "Una casa blanca a media ladera, con el mar siempre delante y sombra a cualquier hora.\nLa playa está a cuatro minutos a pie, bajando por la escalera de piedra."
+    },
+    "checkIn": "15:00",
+    "checkOut": "11:00",
+    "logo": "",
+    "maxGuests": 6,
+    "name": "Villa Mirador",
+    "photos": [],
+    "tagline": {
+      "en": "Two terraces above the bay, in Manzanillo",
+      "es": "Dos terrazas sobre la bahía, en Manzanillo"
+    },
+    "website": ""
+  },
+  "rates": {
+    "defaultMinNights": 2,
+    "defaultNightly": 3800,
+    "seasons": []
+  },
+  "unit": "night"
+}
