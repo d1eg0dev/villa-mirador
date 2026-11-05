@@ -48,7 +48,16 @@
     "logo": "",
     "maxGuests": 6,
     "name": "Villa Mirador",
-    "photos": [],
+    "photos": [
+      "fotos/01.jpg",
+      "fotos/02.jpg",
+      "fotos/03.jpg",
+      "fotos/04.jpg",
+      "fotos/05.jpg",
+      "fotos/06.jpg",
+      "fotos/07.jpg",
+      "fotos/08.jpg"
+    ],
     "tagline": {
       "en": "Two terraces above the bay, in Manzanillo",
       "es": "Dos terrazas sobre la bahía, en Manzanillo"
